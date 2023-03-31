@@ -63,7 +63,7 @@ a {
 }
 
 .title {
-  width: 40%;
+  width: 60%;
   font-weight: 700;
   font-size: 36px;
   line-height: 42px;
@@ -107,6 +107,8 @@ a {
 
 .name {
   margin-bottom: 25px;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .specialist:nth-of-type(even) {
