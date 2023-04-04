@@ -111,6 +111,11 @@ a {
   font-weight: bold;
 }
 
+.lists {
+  font-size: 18px;
+  line-height: 21px;
+}
+
 .specialist:nth-of-type(even) {
   text-align: right;
   flex-direction: row-reverse;
